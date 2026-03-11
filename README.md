@@ -6,10 +6,9 @@ Production / Site Reliability Engineering @ Voleon Capital · HPC, quant infrast
 <a href="https://github.com/misterfitz/GitHub-Language-Stats">
 <img src="https://github.com/misterfitz/github-stats/blob/master/generated/overview.svg" />
 <img src="https://github.com/misterfitz/github-stats/blob/master/generated/languages.svg" />
-
 </a>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=misterfitz&color=blue)
 <!--
 **misterfitz/misterfitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
