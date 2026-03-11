@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-Currently working to get safe, fast, reliable instant payments available to all. 🇺🇸 💸
+Production / Site Reliability Engineering @ Voleon Capital · HPC, quant infrastructure, Python · MBA/MS Finance candidate @ BC Carroll
 
-Studying for an MBA and MSF at Boston College, maybe some other work over there on [GitLab](https://gitlab.com/fitzgeqk) 📓
-
-More about my past work [here](RESUME.md)
 <!--
 **misterfitz/misterfitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
