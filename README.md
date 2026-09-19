@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi 👋🏻
 
-Production / Site Reliability Engineering @ Voleon Capital · HPC, quant infrastructure, Python · MBA/MS Finance candidate @ BC Carroll
-
+AI/ML/Data/Infrastructure | Energy, Finance, Tech, HPC | MBA/MS Finance candidate @ BC Carroll | Nerd 🖖🏻
 
 <a href="https://github.com/misterfitz/github-stats">
 <img src="https://github.com/misterfitz/github-stats/blob/master/generated/overview.svg" />
